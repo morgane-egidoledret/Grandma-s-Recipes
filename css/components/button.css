@@ -1,0 +1,24 @@
+.btn-blue {
+	background-color: #64B6AC;
+	color: white;
+	padding: 10px 15px;
+	border-radius: 5px;
+	transition: 0.2s ease-in-out;
+}
+
+.btn-blue:hover {
+	background-color: #0D5C63;
+}
+
+.btn-pink {
+	background-color: rgba(219,147,176,0.8);
+	color: white;
+	padding: 10px 15px;
+	border-radius: 5px;
+	transition: 0.2s ease-in-out;
+}
+
+.btn-pink:hover {
+	background-color: #DB93B0;
+	padding: 12px 17px;
+}
